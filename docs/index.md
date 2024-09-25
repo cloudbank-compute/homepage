@@ -1,12 +1,12 @@
-# Welcome to My MyST-Powered GitHub Pages Site
+# CAL-ICOR is launching soon
 
-Welcome to my website! This site is built with MyST Markdown and deployed using GitHub Pages.
+## Project Vision
+The Partnership for Establishing a California Interactive Computing Open Resource (Cal-ICOR) aims to revolutionize data science education across California's public higher education institutions by providing equitable, cloud-based access to Jupyter notebooks and comprehensive instructor support. Our mission is to empower educators and students with the tools and training necessary to foster innovative, engaging learning experiences.
 
-## Features
+JupyterHub are being deployed for use in the near future!
 
-- **Simple Markdown**: MyST allows you to write with regular Markdown.
-- **Advanced Syntax**: You can add directives, roles, LaTeX math, and more!
-- **Sphinx Powered**: Combine with Sphinx for additional functionality.
+Please [sign-up](https://docs.google.com/forms/d/1IN3b19WWPbTiAu8WR4tTBZwwMAY-NYS8EgH3I1eGQEI/edit?ts=66f34eb2) if you would like a JupyterHub configured for your
+institution.
 
-```{note}
-This is a note box. MyST lets you add special directives like this one.
+
+
