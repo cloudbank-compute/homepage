@@ -1,4 +1,4 @@
 # Configuration for MyST-based GitHub Pages site
 title: CAL-ICOR
 author: Sean Morris
-theme: minimal-mistakes
+theme: minimal-mistakes-jekyll
