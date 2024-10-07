@@ -1,4 +1,6 @@
-![CAL-ICOR logo](assets/logo.png)
+<p align="center">
+  <img src="assets/logo-trans.png" alt="CAL-ICOR logo" />
+</p>
 
 ## JupyterHubs are being deployed for use in the near future!
 
