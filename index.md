@@ -2,7 +2,7 @@
   <img src="assets/logo-trans.png" alt="CAL-ICOR logo" />
 </p>
 
-![JupyterHub logo](./assets/jupyter.svg#jupyter)  ![Python logo](./assets/python.svg#python)  ![R logo](./assets/r-logo.png#R)  
+![JupyterHub logo](./assets/jupyter.svg#jupyter)    ![Python logo](./assets/python.svg#python)    ![R logo](./assets/r-logo.png#R)  
 ## JupyterHubs are being deployed for use in the near future!
 
 ## Sign-up for access to a cloud-based jupyter-hub
